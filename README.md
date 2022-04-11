@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Anik-sarkar
-- 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning JavaScript.
+- 👀 A Tech Enthusiast.
 
 <!---
 Anik-sarkar1/Anik-sarkar1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
